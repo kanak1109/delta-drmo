@@ -1,2 +1,2 @@
 # delta-drmo
-demo git or github
+demo git or github.
